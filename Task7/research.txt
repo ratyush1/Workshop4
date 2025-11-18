@@ -1,0 +1,40 @@
+Constructors are special methods that run automatically when an object is created. They help by:
+
+1. Object Initialization
+
+Constructors give objects valid starting values so they are ready to use immediately.
+
+2. Code Reliability
+
+They prevent uninitialized or invalid objects, reducing runtime errors.
+
+3. Maintainability
+
+All initialization logic is in one place, making the code easier to update and manage.
+
+Real-World Uses
+
+Initializing game characters with name, level, and health
+
+Setting up API or database connections
+
+Creating orders in e-commerce with customer and item details
+
+
+
+
+Encapsulation means protecting data by keeping fields private and exposing them only through methods.
+It improves security, prevents incorrect changes, and keeps code organized.
+
+Classes & Objects
+
+A class is a blueprint, and an object is an instance of that blueprint.
+
+Examples of Encapsulation
+
+A BankAccount class hides the balance and allows only deposit/withdraw through methods.
+
+A Student class hides marks and validates them before storing.
+
+
+
